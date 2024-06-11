@@ -1,6 +1,3 @@
-```zsh
-> neofetch
-```
 
 <img align="left" src="logo.jpg" width="255px" height="220px"/> 
 
