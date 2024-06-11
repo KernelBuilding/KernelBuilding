@@ -25,7 +25,7 @@ Hobbies: Coding, Music, and Gaming
 <img align="right" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=KernelBuilding&include_all_commits=true&show_icons=true&theme=buefy&count_private=true&hide_border=true" />
 
 # 💻 Environment
-![Windows](https://img.shields.io/badge/Windows%2011-00BBFF?style=flat-square&logo=Windows&logoColor=ffffff)
+![Windows](https://img.shields.io/badge/Windows%2010-00BBFF?style=flat-square&logo=Windows&logoColor=ffffff)
 ![Linux](https://img.shields.io/badge/Linux-Mint%2000BBFF?style=flat-square&logo=Linux&logoColor=ffffff)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-ED9121?style=flat-square&logo=Ubuntu&logoColor=ffffff)
 
