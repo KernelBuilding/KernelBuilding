@@ -2,11 +2,11 @@
 > neofetch
 ```
 
-<img align="left" src="logo.jpg" width="270px"/> 
+<img align="left" src="logo.jpg" width="255px"/> 
 
 ```csharp
 Project@Kernel
----------------------------------------------------
+------------------------------------
 Username: PGYT PROJECT
 OS: Garuda Linux "Dr460nized"
 Terminal: Garuda Terminal
