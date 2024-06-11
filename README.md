@@ -24,17 +24,16 @@ Hobbies: Coding, Music, and Gaming
 
 <img align="right" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=KernelBuilding&include_all_commits=true&show_icons=true&theme=buefy&count_private=true&hide_border=true" />
 
-### 💻 Environment
-[![Windows](https://img.shields.io/badge/Windows-00BBFF?style=flat-square&logo=Windows&logoColor=FFFFFF&labelColor=00BBFF)](https://www.microsoft.com/windows11)
-[![Linux](https://img.shields.io/badge/Arch%20Linux-008BFF?style=flat-square&logo=arch-linux&logoColor=FFFFFF&labelColor=008BFF)](https://archlinux.org)
-[![Ubuntu](https://img.shields.io/badge/Ubuntu%2021%2e04-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://releases.ubuntu.com/22.04/)
-[![Android](https://img.shields.io/badge/Android-00C000?style=flat-square&logo=android&logoColor=FFFFFF&labelColor=00C000)](https://www.android.com/android-11/)
+# 💻 Environment
+![Windows](https://img.shields.io/badge/Windows%2011-00BBFF?style=flat-square&logo=Windows&logoColor=ffffff)
+![Linux](https://img.shields.io/badge/Linux-Mint%2000BBFF?style=flat-square&logo=Linux&logoColor=ffffff)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-ED9121?style=flat-square&logo=Ubuntu&logoColor=ffffff)
 
-### 📱 Devices Support
-![MT6833](https://img.shields.io/badge/Itel-ED9121?style=flat-square&logo=https://logowik.com/content/uploads/images/itel-20235427.logowik.com.webp&logoColor=FFFFFF&labelColor=ED9121)
-![MT6765](https://img.shields.io/badge/Realme-ED9121?style=flat-square&logo=https://logowik.com/content/uploads/images/realme5985.logowik.com.webp&logoColor=FFFFFF&labelColor=ED9121)
-![T606](https://img.shields.io/badge/Infinix-ED9121?style=flat-square&logo=https://upload.wikimedia.org/wikipedia/commons/e/e6/Logo_of_Infinix.png&logoColor=FFFFFF&labelColor=ED9121)
-![MT6769H](https://img.shields.io/badge/Xiaomi-ED9121?style=flat-square&logo=https://logowik.com/content/uploads/images/xiaomi.jpg&logoColor=FFFFFF&labelColor=ED9121)
+# 📱 Devices
+![Xiaomi Redmi 12](https://img.shields.io/badge/Xiaomi%20Redmi%2012-ED9121?style=flat-square&logo=xiaomi&logoColor=ffffff)
+![Itel P55 5G](https://img.shields.io/badge/Itel%20P55%205G-ED9121?style=flat-square&logo=itel&logoColor=ffffff)
+![Infinix Smart 8](https://img.shields.io/badge/Infinix%20Smart%208-ED9121?style=flat-square&logo=infinix&logoColor=ffffff)
+![Realme C20](https://img.shields.io/badge/Realme%20C20-ED9121?style=flat-square&logo=realme&logoColor=ffffff)
 
 <div align="center"> 
 
