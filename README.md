@@ -25,9 +25,10 @@ Hobbies: Coding, Music, and Gaming
 <img align="right" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=KernelBuilding&include_all_commits=true&show_icons=true&theme=buefy&count_private=true&hide_border=true" />
 
 # 💻 Environment
-![Windows](https://img.shields.io/badge/Windows%2010-00BBFF?style=flat-square&logo=Windows&logoColor=ffffff)
-![Linux](https://img.shields.io/badge/Linux-Arch%2000BBFF?style=flat-square&logo=Linux&logoColor=ffffff)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-ED9121?style=flat-square&logo=Ubuntu&logoColor=ffffff)
+[![Windows](https://img.shields.io/badge/Windows-00BBFF?style=flat-square&logo=Windows&logoColor=FFFFFF&labelColor=00BBFF)](https://www.microsoft.com/windows11)
+[![Arch Linux](https://img.shields.io/badge/Arch%20Linux-008BFF?style=flat-square&logo=arch-linux&logoColor=FFFFFF&labelColor=008BFF)](https://archlinux.org)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu%2021%2e04-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://releases.ubuntu.com/21.04/)
+[![Android](https://img.shields.io/badge/Android-00C000?style=flat-square&logo=android&logoColor=FFFFFF&labelColor=00C000)](https://www.android.com/android-11/)
 
 # 📱 Devices
 ![Xiaomi Redmi 12](https://img.shields.io/badge/Xiaomi%20Redmi%2012-ED9121?style=flat-square&logo=xiaomi&logoColor=ffffff)
@@ -37,7 +38,6 @@ Hobbies: Coding, Music, and Gaming
 
 <div align="center"> 
 
-    
 <br>
 
 ## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="35"><b> Github Stats </b>
