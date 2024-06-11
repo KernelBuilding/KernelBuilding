@@ -2,7 +2,7 @@
 > neofetch
 ```
 
-<img align="left" src="logo.jpg" width="290px"/> 
+<img align="left" src="logo.jpg" width="300px"/> 
 
 ```csharp
 Project@Kernel
