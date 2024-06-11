@@ -7,7 +7,7 @@
 ```csharp
 Project@Kernel
 ---------------------------------------------------
-PGYT PROJECT
+Username: PGYT PROJECT
 OS: Garuda Linux "Dr460nized"
 Terminal: Garuda Terminal
 Shell: bash 5.2.026
