@@ -1,6 +1,6 @@
 <img align="left" src="logo.jpg" width="255px" height="220px"/> 
   
-```csharp
+``csharp
 Project@Kernel
 ------------------------------------
 Username: PGYT PROJECT
@@ -13,7 +13,7 @@ Telegram: @ProjectKernel2
 Learning: Android, Kotlin
 Hobbies: Coding, Music, and Gaming
 
-```
+``
 
 <div align="center"> 
 
