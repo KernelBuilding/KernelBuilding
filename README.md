@@ -26,6 +26,7 @@ Hobbies: Coding, Music, and Gaming
 <img align="right" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=KernelBuilding&include_all_commits=true&show_icons=true&theme=buefy&count_private=true&hide_border=true" />
 
 
+
 ### 💻 Environment
 [![Windows](https://img.shields.io/badge/Windows-00BBFF?style=flat-square&logo=Windows&logoColor=FFFFFF&labelColor=00BBFF)](https://www.microsoft.com/windows11)
 [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-008BFF?style=flat-square&logo=arch-linux&logoColor=FFFFFF&labelColor=008BFF)](https://archlinux.org)
@@ -33,16 +34,12 @@ Hobbies: Coding, Music, and Gaming
 [![Android](https://img.shields.io/badge/Android-00C000?style=flat-square&logo=android&logoColor=FFFFFF&labelColor=00C000)](https://www.android.com/android-11/)
 
 ### 📱 Devices Support
-![MT6833](https://img.shields.io/badge/Itel-ED9121?style=flat-square&logo=itel&logoColor=FFFFFF&labelColor=ED9121)
-![MI6765](https://img.shields.io/badge/Realme-ED9121?style=flat-square&logo=realme&logoColor=FFFFFF&labelColor=ED9121)
-![T606](https://img.shields.io/badge/Infinix-ED9121?style=flat-square&logo=infinix&logoColor=FFFFFF&labelColor=ED9121)
+![MT6833](https://img.shields.io/badge/Itel-ED9121?style=flat-square&logo=https://logowik.com/content/uploads/images/itel-20235427.logowik.com.webp&logoColor=FFFFFF&labelColor=ED9121)
+![MT6765](https://img.shields.io/badge/Realme-ED9121?style=flat-square&logo=https://logowik.com/content/uploads/images/realme5985.logowik.com.webp&logoColor=FFFFFF&labelColor=ED9121)
+![T606](https://img.shields.io/badge/Infinix-ED9121?style=flat-square&logo=https://upload.wikimedia.org/wikipedia/commons/e/e6/Logo_of_Infinix.png&logoColor=FFFFFF&labelColor=ED9121)
+![MT6769H](https://img.shields.io/badge/Xiaomi-ED9121?style=flat-square&logo=https://logowik.com/content/uploads/images/xiaomi.jpg&logoColor=FFFFFF&labelColor=ED9121)
 
 <div align="center"> 
-    
-### Hi Everyone
-<img src=https://moe-counter.es3n1n.eu/get/@KernelBuilding width="500px" />
-
-</div>
 
     
 <br>
