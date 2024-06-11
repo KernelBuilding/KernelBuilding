@@ -11,6 +11,7 @@ Memory: 593MiB / 15906MiB
 Telegram: @ProjectKernel2
 Learning: Android, Kotlin
 Hobbies: Coding, Music, and Gaming
+
 ```
 
 <div align="center"> 
