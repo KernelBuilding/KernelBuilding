@@ -26,7 +26,7 @@ Hobbies: Coding, Music, and Gaming
 
 # 💻 Environment
 ![Windows](https://img.shields.io/badge/Windows%2010-00BBFF?style=flat-square&logo=Windows&logoColor=ffffff)
-![Linux](https://img.shields.io/badge/Linux-Mint%2000BBFF?style=flat-square&logo=Linux&logoColor=ffffff)
+![Linux](https://img.shields.io/badge/Linux-Arch%2000BBFF?style=flat-square&logo=Linux&logoColor=ffffff)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-ED9121?style=flat-square&logo=Ubuntu&logoColor=ffffff)
 
 # 📱 Devices
