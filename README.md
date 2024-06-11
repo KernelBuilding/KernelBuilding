@@ -18,9 +18,6 @@ Learning: Android, Kotlin
 Hobbies: Coding, Music, and Gaming
 
 ```
-```zsh
-> My Stats
-```
 
 <div align="center"> 
 
