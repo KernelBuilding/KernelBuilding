@@ -1,6 +1,6 @@
 <img align="left" src="logo.jpg" width="255px" height="220px"/> 
 
-<div align="right"> 
+<div align="left"> 
   
 ```csharp
 Project@Kernel
