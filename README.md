@@ -1,5 +1,7 @@
 <img align="left" src="logo.jpg" width="255px" height="220px"/> 
 
+<div align="right"> 
+  
 ```csharp
 Project@Kernel
 ------------------------------------
@@ -14,6 +16,7 @@ Learning: Android, Kotlin
 Hobbies: Coding, Music, and Gaming
 
 ```
+
 <div align="center"> 
 
 <br>
