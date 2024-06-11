@@ -1,7 +1,5 @@
 
-<img align="center"/>
-
-Hello 👋 
+<img align="center" hello 👋/>
 
 <img align="left" src="logo.jpg" width="255px" height="220px"/>
 
