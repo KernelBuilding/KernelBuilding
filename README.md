@@ -24,6 +24,8 @@ Hobbies: Coding, Music, and Gaming
 
 <img align="right" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=KernelBuilding&include_all_commits=true&show_icons=true&theme=buefy&count_private=true&hide_border=true" />
 
+<div align="center"> 
+
 <br>
 
 # 💻 Environment
