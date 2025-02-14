@@ -27,10 +27,7 @@ Hobbies: Coding, Music, and Gaming
 [![Android](https://img.shields.io/badge/Android-00C000?style=flat-square&logo=android&logoColor=FFFFFF&labelColor=00C000)](https://www.android.com/android-11/)
 
 # 📱 Devices
-![Xiaomi Redmi 12](https://img.shields.io/badge/Xiaomi%20Redmi%2012-ED9121?style=flat-square&logo=xiaomi&logoColor=ffffff)
-![Itel P55 5G](https://img.shields.io/badge/Itel%20P55%205G-ED9121?style=flat-square&logo=itel&logoColor=ffffff)
-![Infinix Smart 8](https://img.shields.io/badge/Infinix%20Smart%208-ED9121?style=flat-square&logo=infinix&logoColor=ffffff)
-![Realme C20](https://img.shields.io/badge/Realme%20C20-ED9121?style=flat-square&logo=realme&logoColor=ffffff)
+![POCO F6](https://img.shields.io/badge/Poco%20F6%20-ED9121?style=flat-square&logo=logoColor=ffffff)
 
 <div align="center"> 
   
