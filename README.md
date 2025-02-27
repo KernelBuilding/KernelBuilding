@@ -12,7 +12,7 @@ Terminal: Garuda Terminal
 Shell: bash 5.2.026
 CPU: Intel i5-11400 (12) @ 2.6GHz
 Memory: 593MiB / 15906MiB
-Telegram: @ProjectKernel2
+Telegram: @ProjectKernel3
 Learning: Android, Kotlin
 Hobbies: Coding, Music, and Gaming
 ```
